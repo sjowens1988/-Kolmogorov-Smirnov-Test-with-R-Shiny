@@ -3,7 +3,7 @@ R-Shiny App that computes the KS statistic for 2 distributions, plots QQ plot, a
 
 This is one of the first R-Shiny Apps I've made.
 
-This app is a simple R-Shiny APP that can be use the reactive funcitons and several other R-Shiny features. 
+This app is a simple R-Shiny APP that uses the reactive funcitons and several other R-Shiny features. 
 It takes 2 distributions (Normal, Gamma, Beta, Logistic, & Uniform) and displays the histograms, qq plot and KS Stat. 
 I also included the binomial distribution for the sake of it. 
 
